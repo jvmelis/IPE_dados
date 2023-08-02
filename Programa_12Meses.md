@@ -1,6 +1,7 @@
 **Programa de 12 Meses para Especialização em Produto de Dados**
 
 Fonte: [linkedin](https://www.linkedin.com/posts/gilsantanna_programa-de-12-meses-para-especializa%C3%A7%C3%A3o-activity-7091822185060691969-Fflr)
+
 **->**  A sugestão não foi encontrada
 
 Compilado de cursos e livros e pessoas para estudar e avançar na área de produto de dados
