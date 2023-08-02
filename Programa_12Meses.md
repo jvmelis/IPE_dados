@@ -23,6 +23,7 @@ Design de Valor: ["Creating a Data-Driven Organization" por Carl Anderson](https
 Testando Ideias de Negócio: ["Experimentation Works" por Stefan H. Thomke](https://www.amazon.com/Experimentation-Works-Surprising-Business-Experiments/dp/163369710X)
 
 **Mês 3:**
+
 Liderança: ["The Data Driven Leader" por Jenny Dearborn e David Swanson](https://www.amazon.com.br/Data-Driven-Leader-Delivering-Measurable-ebook/dp/B0762WZQ94/)
 
 Equipes: ["Data Teams" por Jesse Anderson](https://www.amazon.com.br/Data-Teams-Management-Successful-Data-Focused-ebook/dp/B08JLFTPBV/)
@@ -38,6 +39,7 @@ Descoberta de Produto: ["Data Driven" por DJ Patil e Hilary Mason](https://www.a
 Product-Market Fit: ["The Lean Product Playbook" por Dan Olsen](https://www.amazon.com.br/Lean-Product-Playbook-Innovate-Products/dp/1118960874/)
 
 **Mês 5:**
+
 Crescimento de Produto: ["Data-Driven Marketing" por Mark Jeffery](https://www.amazon.com.br/Data-Driven-Marketing-Metrics-Everyone-English-ebook/dp/B00371V7I8/)
 
 Retenção: ["Data Science for Business" por Foster Provost e Tom Fawcett](https://www.amazon.com.br/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/) -> tem em pt-br
@@ -53,6 +55,7 @@ Marketing: ["Data-Driven Marketing" por Mark Jeffery](https://www.amazon.com.br/
 Crescimento de Produto: ["Growth Hacker Marketing" por Ryan Holiday](https://www.amazon.com.br/Growth-Hacker-Marketing-Advertising-English-ebook/dp/B00INIXL3O/)
 
 **Mês 7:**
+
 Oratória: ["Talk Like TED" de Carmine Gallo](https://www.amazon.com.br/Talk-Like-TED-Public-Speaking-Secrets-ebook/dp/B00F1RE1MK/) -> tem em pt-br
 
 Copywriting: ["Everybody Writes" de Ann Handley](https://www.amazon.com.br/Everybody-Writes-Improved-Go-Ridiculously-ebook/dp/B0BKNJ7FZV/)
@@ -68,6 +71,7 @@ Eficiência: ["The Effective Executive" de Peter Drucker](https://www.amazon.com
 Networking: ["Superconnector" de Ryan Paugh e Scott Gerber](https://www.amazon.com.br/Superconnector-Networking-Building-Business-Relationships-ebook/dp/B072122ZLF/)
 
 **Mês 9:**
+
 Inteligência Financeira: ["Financial Intelligence for Entrepreneurs" por Karen Berman e Joe Knight](https://www.amazon.com.br/Financial-Intelligence-Revised-Managers-Knowing-ebook/dp/B00AXS5EAK/)
 
 Contabilidade: ["Accounting for Non-Accountants" de Wayne A. Label](https://www.amazon.com.br/Accounting-Non-Accountants-Basics-Business-English-ebook/dp/B00AQLTOTQ/)
