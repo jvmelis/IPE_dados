@@ -24,7 +24,9 @@ Testando Ideias de Negócio: ["Experimentation Works" por Stefan H. Thomke](http
 
 **Mês 3:**
 Liderança: ["The Data Driven Leader" por Jenny Dearborn e David Swanson](https://www.amazon.com.br/Data-Driven-Leader-Delivering-Measurable-ebook/dp/B0762WZQ94/)
+
 Equipes: ["Data Teams" por Jesse Anderson](https://www.amazon.com.br/Data-Teams-Management-Successful-Data-Focused-ebook/dp/B08JLFTPBV/)
+
 Definindo metas: ["Measure What Matters" por John Doerr](https://www.amazon.com.br/Measure-What-Matters-Foundation-English-ebook/dp/B078FZ9SYB/) -> tem em pt-br
 
 **Mês 4:**
@@ -37,7 +39,9 @@ Product-Market Fit: ["The Lean Product Playbook" por Dan Olsen](https://www.amaz
 
 **Mês 5:**
 Crescimento de Produto: ["Data-Driven Marketing" por Mark Jeffery](https://www.amazon.com.br/Data-Driven-Marketing-Metrics-Everyone-English-ebook/dp/B00371V7I8/)
+
 Retenção: ["Data Science for Business" por Foster Provost e Tom Fawcett](https://www.amazon.com.br/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/) -> tem em pt-br
+
 **->** Faça o curso de certificação ["Data Science for Product Managers" no Coursera](https://www.coursera.org/search?query=Data%20Science%20for%20Product%20Managers) -> não tem 
 
 **Mês 6:**
@@ -50,7 +54,9 @@ Crescimento de Produto: ["Growth Hacker Marketing" por Ryan Holiday](https://www
 
 **Mês 7:**
 Oratória: ["Talk Like TED" de Carmine Gallo](https://www.amazon.com.br/Talk-Like-TED-Public-Speaking-Secrets-ebook/dp/B00F1RE1MK/) -> tem em pt-br
+
 Copywriting: ["Everybody Writes" de Ann Handley](https://www.amazon.com.br/Everybody-Writes-Improved-Go-Ridiculously-ebook/dp/B0BKNJ7FZV/)
+
 Negociação: ["Never Split the Difference" de Christopher Voss e Tahl Raz](https://www.amazon.com.br/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2/) -> tem em pt-br ("Negocie como se sua vida dependesse disso")
 
 **Mês 8:**
@@ -63,6 +69,7 @@ Networking: ["Superconnector" de Ryan Paugh e Scott Gerber](https://www.amazon.c
 
 **Mês 9:**
 Inteligência Financeira: ["Financial Intelligence for Entrepreneurs" por Karen Berman e Joe Knight](https://www.amazon.com.br/Financial-Intelligence-Revised-Managers-Knowing-ebook/dp/B00AXS5EAK/)
+
 Contabilidade: ["Accounting for Non-Accountants" de Wayne A. Label](https://www.amazon.com.br/Accounting-Non-Accountants-Basics-Business-English-ebook/dp/B00AQLTOTQ/)
 
 **Mês 10:**
